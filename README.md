@@ -2,13 +2,13 @@
 
 Heresy's Gate: Dynamically generate a stub for any Zw/Nt function in kernel mode, even if it is not exported.
 
-https://github.com/zerosum0x0/heresy/blob/master/heresy/heresy/scrape.c
+Code: https://github.com/zerosum0x0/heresy/blob/master/heresy/heresy/scrape.c
 
 # Work  Out
 
 Ring 0 to Ring 3 via Worker Factories
 
-https://github.com/zerosum0x0/heresy/blob/master/heresy/heresy/inject.c
+Code: https://github.com/zerosum0x0/heresy/blob/master/heresy/heresy/inject.c
 
 # Full Writeup
 
