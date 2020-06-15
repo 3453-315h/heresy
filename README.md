@@ -1,6 +1,6 @@
 # Heresy's Gate
 
-Heresy's Gate: Dynamically generate a stub for any Zw/Nt function in kernel mode, even if it is not exported.
+Dynamically generate a stub for any Zw/Nt function in kernel mode, even if it is not exported.
 
 Code: https://github.com/zerosum0x0/heresy/blob/master/heresy/heresy/scrape.c
 
